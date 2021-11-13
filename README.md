@@ -5,7 +5,7 @@ Estou  começando no mundo da programação:
 - 🌱 Atualmente estamos aprendendo sobre CSS - HTML - JAVASCRIPT e vamos para REACT
 - 🤝 Tenho alguns amigos que fiz no curso e estamos no ajudando mutuamente!!
 
-[![RickHardBR GitHub stats](https://github-readme-stats.vercel.app/api?username=RickHardBR&show_icons=true&theme=highcontrast )](https://github.com/RickHardBR/github-readme-stats)
+[![RickHardBR GitHub stats](https://github-readme-stats.vercel.app/api?username=RickHardBR&show_icons=true&theme=highcontrast )](https://github.com/RickHardBR/github-readme-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickHardBR)](https://github.com/RickHardBR/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rickhards)
