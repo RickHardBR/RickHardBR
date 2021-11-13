@@ -1,4 +1,5 @@
-<img align="right" height="450em" width="450em" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" height="300em" width="300em" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
 ###Olá👋 Navegante.<br />
 Me Chamo [Ricardo Ribeiro](https://github.com/RickHardBR/RickHardBR/blob/main/README.md) , mas pode me chamar de RickHard ou apenas Rick.<br />
 Estou  começando no mundo da programação, tenho 50 anos e desde muito cedo me interesso por tercnologia, ja fui instrutor de informática durante vários anos e em várias escolas,
@@ -10,11 +11,20 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 - 🤝 Nossa turma (#joy) é bem unida e estamos nos ajudando mutuamente.
 
 
+## 🛠 &nbsp;Stacks
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-blueviolet?style=flat&logo=react)&nbsp;
+
+
 [![RickHardBR GitHub stats](https://github-readme-stats.vercel.app/api?username=RickHardBR&show_icons=true&theme=highcontrast )](https://github.com/RickHardBR/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickHardBR)](https://github.com/RickHardBR/github-readme-stats)
 
+<br>
 
-[<img height="450em" width="450em"src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rickhards)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rickhards)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ricardo-rickhardwares/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rickhardribeiro/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/RickHardL)
 
 
