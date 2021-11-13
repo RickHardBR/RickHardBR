@@ -1,5 +1,5 @@
 ###Olá👋 Navegante.<br />
-Me Chamo [Ricardo Ribeiro](https://github.com/RickHardBR/RickHardBR/edit/main/README.md) , mas pode me chamar de RickHard ou apenas Rick.<br />
+Me Chamo [Ricardo Ribeiro](https://github.com/RickHardBR/RickHardBR/blob/main/README.md) , mas pode me chamar de RickHard ou apenas Rick.<br />
 Estou  começando no mundo da programação, tenho 50 anos e desde muito cedo me interesso por tercnologia, ja fui instrutor de informática durante vários anos e em várias escolas,
 uma área que sempre me agradou. Agora estou tentando migrar de T.I. para Dev.
 Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta tarefa.
