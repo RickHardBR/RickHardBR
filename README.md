@@ -18,14 +18,15 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-blueviolet?style=flat&logo=react)&nbsp;
 
-
-[![RickHardBR GitHub stats](https://github-readme-stats.vercel.app/api?username=RickHardBR&show_icons=true&theme=highcontrast )](https://github.com/RickHardBR/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickHardBR)](https://github.com/RickHardBR/github-readme-stats)
+<div>
+ <a href="https://github.com/RickHardBR/RickHardBR">
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=RickHardBR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickHardBR&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <br>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rickhards)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ricardo-rickhardwares/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rickhardribeiro/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/RickHardL)
-
 
 
