@@ -26,14 +26,20 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 </div>
 
 <br>
-
+<div>
+ 
+<details>
+<summary>Minhas Redes Sociais</summary>
+ 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rickhards)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ricardo-rickhardwares/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rickhardribeiro/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/RickHardL)
-
-
+ 
+</details>
+ 
+</div>
+ 
 <details>
-<summary>Para ver a Grid Contribution Snake
-</summary>
+<summary>Para ver a Grid Contribution Snake</summary>
 
 ![Snake animation](https://github.com/RickHardBR/RickHardBR/blob/output/github-contribution-grid-snake.svg)
 
