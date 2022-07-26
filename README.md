@@ -20,7 +20,7 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 ![React](https://img.shields.io/badge/-React-blueviolet?style=flat&logo=react)&nbsp;
 
 <div>
- <a href="https://github.com/RickHardBR/RickHardBR">
+ <a href="https://github.com/RickHardBR">
  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=RickHardBR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickHardBR&layout=compact&langs_count=7&theme=radical"/>
 </div>
