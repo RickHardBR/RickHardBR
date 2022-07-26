@@ -14,7 +14,7 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 - 🤝 Nossa turma (#joy) é bem unida e estamos nos ajudando mutuamente.
 
 </div>
-
+Clique: nas ▶️
 <details>
 <summary>🛠 &nbsp;Stackss</summary>
 
@@ -30,8 +30,8 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 
  </details>
  
-<details>
- 
+<details> 
+
 <div>
  
 <summary>🎯 Minhas Redes Sociais</summary>
