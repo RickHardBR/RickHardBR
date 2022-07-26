@@ -32,5 +32,4 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 
 
 
-![Snake animation](https://github.com/RickHardBR/future4code
-/Ricardo-Filho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RickHardBR/RickHardBR/blob/output/github-contribution-grid-snake.svg)
