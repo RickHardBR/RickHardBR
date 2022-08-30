@@ -1,4 +1,4 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF0F0F&height=180&section=header&text=Ricardo Ribeiro - RickHardBR&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF0F0F&height=180&section=header&text=Ricardo%20Ribeiro%20-%20RickHardBR&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
  <div align="center">
 
