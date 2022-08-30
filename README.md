@@ -14,6 +14,10 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 - 🤝 Nossa turma (#joy) é bem unida e estamos nos ajudando mutuamente.
 
 </div>
+
+
+
+
 Clique: nas ▶️
 <details>
 <summary>🛠 &nbsp;Stackss</summary>
@@ -49,3 +53,11 @@ Clique: nas ▶️
 ![Snake animation](https://github.com/RickHardBR/RickHardBR/blob/output/github-contribution-grid-snake.svg)
 
 </details>
+
+
+<div align="center">
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=RickHardBR&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/RickHardBR)
+
+</div>
+<hr>
