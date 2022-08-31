@@ -16,7 +16,7 @@ Agora estou tentando migrar de T.I. para Dev.
 <div>
  
 Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta tarefa.
-- 🔭 Eu estou estudando na [Labenu](https://www.labenu.com.br/) - fazendo Web Full Stack
+- 🔭 Me formei na [Labenu](https://www.labenu.com.br/) - em Web Full Stack
 - 🌱 Atualmente estamos aprendendo sobre Git - CSS - HTML - JAVASCRIPT e REACT!!
 - 🤝 Nossa turma (#joy) é bem unida e estamos nos ajudando mutuamente.
 
