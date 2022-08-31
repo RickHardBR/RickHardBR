@@ -27,7 +27,7 @@ Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta t
 
 Clique: nas ▶️
 <details>
-<summary>🛠 &nbsp;Stackss</summary>
+<summary>🛠 &nbsp;Stacks</summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=flat&logo=HTML5)&nbsp;
