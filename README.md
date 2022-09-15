@@ -8,10 +8,14 @@
 
 <!-- <img align="right" height="300em" width="300em" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> -->
 
-Me Chamo [Ricardo Ribeiro](https://github.com/RickHardBR/RickHardBR/blob/main/README.md) , mas pode me chamar de RickHard ou apenas Rick.<br />
+<h4 style="color:#70ae6e">
+
+Me Chamo Ricardo Ribeiro, mas pode me chamar de RickHard ou apenas Rick.<br />
 Estou  começando no mundo da programação, tenho 50 anos e desde muito cedo me interesso por tercnologia, ja fui instrutor de informática durante vários anos e em várias escolas,
 uma área que sempre me agradou.<br />
 Agora estou tentando migrar de T.I. para Dev.
+
+</h4>
 
 <div>
  
