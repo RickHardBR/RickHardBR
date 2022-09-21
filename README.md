@@ -7,16 +7,21 @@
 </div>
 
 
+<div align="justify" style="display:flex">
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-
-<h4 align="justify" width="300">
+<div width="300" style="margin-right: 10px">
+<p style="text-align:justify font-size: 2rem">
 Me Chamo Ricardo Ribeiro, mas pode me chamar de RickHard ou apenas Rick.<br />
 Estou  começando no mundo da programação, tenho 50 anos e desde muito cedo me interesso por tercnologia, ja fui instrutor de informática durante vários anos e em várias escolas,
 uma área que sempre me agradou.<br />
 Agora estou tentando migrar de T.I. para Dev.
+</p>
+</div>
 
-</h4>
+<div>
+<img align="right" width="450" height="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+</div>
+</div>
 
 [GitHub principap - RickHardBR](https://github.com/RickHardBR)
 
