@@ -17,6 +17,8 @@ Agora estou tentando migrar de T.I. para Dev.
 
 </h4>
 
+[GitHub principap - RickHardBR](https://github.com/RickHardBR)
+
 <div>
  
 Tentando e vou conseguir com a ajuda do amigos da escola que escolhi para esta tarefa.
