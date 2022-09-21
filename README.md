@@ -10,7 +10,7 @@
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-<h4 align="justify">
+<h4 align="justify" width="300">
 Me Chamo Ricardo Ribeiro, mas pode me chamar de RickHard ou apenas Rick.<br />
 Estou  começando no mundo da programação, tenho 50 anos e desde muito cedo me interesso por tercnologia, ja fui instrutor de informática durante vários anos e em várias escolas,
 uma área que sempre me agradou.<br />
