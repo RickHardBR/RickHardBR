@@ -8,7 +8,7 @@
 
 
 
-<img align="right" width="300rem" height="350rem"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <h4 align="justify">
 Me Chamo Ricardo Ribeiro, mas pode me chamar de RickHard ou apenas Rick.<br />
