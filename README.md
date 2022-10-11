@@ -6,6 +6,9 @@
 
 </div>
 
+<p align="center" >
+<img style="border-radius: 10px" src="https://raw.githubusercontent.com/thomas0114/AtosDev/main/logo.gif"/>
+</p>
 
 <div>
 
@@ -18,10 +21,6 @@ Agora estou tentando migrar de T.I. para Dev.
 </p>
 </div>
 
-<div>
-<img align="right" width="400" height="300" src="https://raw.githubusercontent.com/thomas0114/AtosDev/main/logo.gif"/>
-</div>
-</div>
 
 [GitHub principap - RickHardBR](https://github.com/RickHardBR)
 
