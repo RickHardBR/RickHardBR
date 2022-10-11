@@ -7,7 +7,7 @@
 </div>
 
 
-<div align="justify" style="display:flex">
+<div>
 
 <div width="300" style="margin-right: 10px">
 <p style="text-align:justify font-size: 2rem">
@@ -19,7 +19,7 @@ Agora estou tentando migrar de T.I. para Dev.
 </div>
 
 <div>
-<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" width="400" height="300" src="https://raw.githubusercontent.com/thomas0114/AtosDev/main/logo.gif"/>
 </div>
 </div>
 
