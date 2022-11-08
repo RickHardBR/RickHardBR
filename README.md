@@ -79,3 +79,7 @@ Clique: nas ▶️
 
 </div>
 <hr>
+<p align="center">Visitante:</p>
+<p align="center"><img src="https://profile-counter.glitch.me/RickHardBR/count.svg" /></p>
+<p align="center">Obrigado, volte sempre!!</p>
+<hr>
