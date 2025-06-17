@@ -22,7 +22,7 @@ Agora estou tentando migrar de T.I. para Dev.
 </div>
 
 
-[GitHub principap - RickHardBR](https://github.com/RickHardBR)
+[GitHub principal - RickHardBR](https://github.com/RickHardBR)
 
 <div>
  
